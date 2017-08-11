@@ -1,0 +1,27 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "MEAN Blog",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GautamD/MEAN-Blog.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack"
+  ],
+  "author": "Gautam Doddamani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GautamD/MEAN-Blog/issues"
+  },
+  "homepage": "https://github.com/GautamD/MEAN-Blog#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.6"
+  }
+}
